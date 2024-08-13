@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "14623766193",
+    "project_id": "afterclassprojectfirebase",
+    "storage_bucket": "afterclassprojectfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14623766193:android:f233d96430b7c08912d490",
+        "android_client_info": {
+          "package_name": "com.example.afterclassprojectfirebasestorage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXBjg5qiAUTbm_dzcAavD0TYe2TVOzGf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

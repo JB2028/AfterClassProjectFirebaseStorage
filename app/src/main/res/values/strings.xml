@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AfterClassProjectFirebaseStorage</string>
+    <string name="select_image">Select Image</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="selected_image">Selected Image</string>
+    <string name="todo">TODO</string>
+</resources>
